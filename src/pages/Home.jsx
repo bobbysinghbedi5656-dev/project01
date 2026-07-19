@@ -38,7 +38,7 @@ export default function Home() {
             <div className="hero-content">
               <span className="hero-subtitle">Elevating Infrastructure Since 1991</span>
               <h1 className="hero-title">
-                BUILDING THE ONES <span>THAT BUILD THE NATION</span>
+                BUILDING THE ONE <span>THAT BUILD THE NATION</span>
               </h1>
               <div className="hero-accent-line"></div>
               <p className="hero-desc">
